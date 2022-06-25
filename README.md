@@ -3,6 +3,11 @@ My name is Mojtaba Khorshidkolah
 
 Front-end developer and js frameworks student and some devOps
 -----------------------------
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romiz5269&show_icons=true&theme=onedark)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romiz5269&layout=compact&theme=radical)](https://github.com/romiz5269)
 
 ### Skills
 <p align="left">
