@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  - Email : mojtaba5269@gmail.com
+  - Email : mojtaba5269@gmail.com<br/>
   - Linkedin : https://www.linkedin.com/in/mojtaba-khorshidkolah/
 </p>
 
