@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mojtaba Khorshidkolah</h1>
-<h3 align="center">A passionate frontend developer (Reactjs)</h3>
+<h3 align="center">A passionate front-end and back-end developer (Reactjs,Nodejs)</h3>
 
 
 - ⚡ Fun fact **I think I can go ahead strong and with full energy**
