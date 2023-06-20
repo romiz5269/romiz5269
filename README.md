@@ -5,8 +5,9 @@
 - ⚡ Fun fact **I think I can go ahead strong and with full energy**
 
 <h3 align="left">Connect with me:</h3>
-<p>
-  Email : mojtaba5269@gmail.com
+<p align="left">
+  - Email : mojtaba5269@gmail.com
+  - Linkedin : https://www.linkedin.com/in/mojtaba-khorshidkolah/
 </p>
 
 
