@@ -2,13 +2,12 @@
 <h3 align="center">A passionate frontend developer (Reactjs)</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romiz5269" alt="romiz5269" /></a> </p>
-
-- 💬 Ask me about **react JS**
-
 - ⚡ Fun fact **I think I can go ahead strong and with full energy**
 
 <h3 align="left">Connect with me:</h3>
+<p>
+  Email : mojtaba5269@gmail.com
+</p>
 <p align="left">
 </p>
 
